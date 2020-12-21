@@ -1,5 +1,5 @@
 #include <iostream>
-#define L 1 
+#define L 10
 #define R 1000000000
 
 using namespace std;
